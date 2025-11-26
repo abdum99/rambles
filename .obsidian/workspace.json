@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f012741c2846dc",
+        "id": "f8c9ffbb66c109a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7d857ef53edde384",
+            "id": "4abbecfcf3ad2632",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "index.md"
-            }
-          },
-          {
-            "id": "35fab6eb568b32d5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/posts/first-post/elnazer_logo_no_bg.png"
-              },
-              "icon": "lucide-image",
-              "title": "elnazer_logo_no_bg"
             }
           }
         ]
@@ -159,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "81309fc3db9536ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +175,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "hugo-publish:hugo sync": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d857ef53edde384",
+  "active": "4abbecfcf3ad2632",
   "lastOpenFiles": [
-    "content/posts/Second.md.md",
     "content/posts/first-post/index.md.md",
+    "content/posts/Second.md.md",
     "public/posts/first-post/elnazer_logo_no_bg.png",
     "content/posts/first-post/elnazer_logo_no_bg.png",
     "public/images/elnazer_logo_no_bg 1.png",
