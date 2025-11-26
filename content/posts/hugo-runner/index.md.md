@@ -1,13 +1,13 @@
 ---
 date: 2025-11-26T03:26:35+03:00
-draft: "true"
+draft: "false"
 title: "Auto Publish Self-Hosted Hugo"
 description: "Guide on setting up CI/CD for Hugo sites with Github actions runner"
 toc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["tag1"]
+tags: ["guides", "hugo", "obsidian", "cicd"]
 showTags: true
 hideBackToTop: false
 ---

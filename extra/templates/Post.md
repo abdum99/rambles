@@ -1,6 +1,6 @@
 ---
 date: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss+03:00") %>
-draft: "true"
+draft: "false"
 title: <% tp.file.title %>
 summary: ""
 description: ""
