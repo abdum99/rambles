@@ -13,4 +13,4 @@ tags: ["tag1"]
 showTags: true
 hideBackToTop: false
 ---
-<% tp.file.move('/content/posts' + tp.file.title) %>
+<% tp.file.move('/content/posts/' + tp.file.title + '/index.md') %>
