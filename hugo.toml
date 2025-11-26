@@ -1,0 +1,89 @@
+baseURL = 'https://rambles.mohamdy.net'
+languageCode = 'en-us'
+title = 'Rambles Of A Techie'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A personal blog for many haphazard thoughts as well as computer system studies"
+showFooter = false
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = "Hi I'm Abdu!"
+homeIntroContent = """
+I'm software engineer and developer who likes to ramble about things I have read, discovered, or built (sometimes to completion).
+
+This blog is a place to gather my incoherent, haphazard, and ad-hoc curiousities and learnings, as well as motivate me to write consistently.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = 'Jan 2 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "~"
+
+# Social icons
+[[params.social]]
+name = "github"
+url = "https://github.com/abdum99"
+
+[[params.social]]
+name = "hashnode"
+url = "https://whatabdu.net/"
+
+[[params.social]]
+name = "bluesky"
+url = "https://bsky.app/profile/abdu.social"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/abdumo"
+
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

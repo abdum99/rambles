@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "useMarkdownLinks": true,
+  "livePreview": false,
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "hidden",
+  "newLinkFormat": "shortest",
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
+}
