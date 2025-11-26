@@ -1,0 +1,52 @@
+name: Build and deploy
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+permissions:
+  contents: read
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+defaults:
+  run:
+    shell: bash
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Cache restore
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: hugo-${{ github.run_id }}
+          restore-keys:
+            hugo-
+      - name: Build the site
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Cache save
+        id: cache-save
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+  deploy:
+    runs-on: self-hosted
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
