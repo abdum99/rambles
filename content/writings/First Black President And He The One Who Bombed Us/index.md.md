@@ -1,5 +1,5 @@
 ---
-date: 2025-11-26T03:54:40+03:00
+date: 2023-11-22
 title: First Black President And He The One Who Bombed Us
 summary: ""
 description: ""
