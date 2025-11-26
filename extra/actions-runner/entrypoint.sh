@@ -3,14 +3,15 @@ set -euo pipefail
 
 cd /actions-runner
 
-: "${GH_RUNNER_URL:?GH_RUNNER_URL is required (e.g. https://github.com/owner/repo or https://github.com/orgs/ORG_NAME)}"
-: "${GH_RUNNER_TOKEN:?GH_RUNNER_TOKEN is required (GitHub self-hosted runner registration token)}"
+: "${GH_RUNNER_URL:?GH_RUNNER_URL is required}"
+: "${GH_RUNNER_TOKEN:?GH_RUNNER_TOKEN is required}"
 
 RUNNER_NAME="${GH_RUNNER_NAME:-$(hostname)}"
 RUNNER_LABELS="${GH_RUNNER_LABELS:-self-hosted,hugo}"
 RUNNER_WORKDIR="${RUNNER_WORKDIR:-_work}"
 
-echo "Configuring GitHub Actions runner..."
+echo "Configuring GitHub Actions runner as user: $(whoami)"
+
 if [ ! -f .runner ]; then
   ./config.sh \
     --unattended \
@@ -30,5 +31,5 @@ cleanup() {
 
 trap cleanup SIGINT SIGTERM
 
-echo "Starting GitHub Actions runner..."
+echo "Starting runner..."
 exec ./run.sh

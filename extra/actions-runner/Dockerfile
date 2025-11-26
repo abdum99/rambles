@@ -1,7 +1,6 @@
-# Hugo with lots of tooling (Debian-based CI image)
 FROM docker.io/hugomods/hugo:debian-ci
 
-# Install dependencies for GitHub Actions runner + rsync
+# Install deps as root
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
       curl \
@@ -12,14 +11,17 @@ RUN apt-get update && \
       jq \
     && rm -rf /var/lib/apt/lists/*
 
-# Version of the GitHub Actions runner to install
+# Create non-root user for the GitHub runner
+RUN useradd -m -s /bin/bash runner
+
+# GitHub runner version
 ARG GH_RUNNER_VERSION=2.321.0
 ENV GH_RUNNER_VERSION=${GH_RUNNER_VERSION}
 
-# Where the Actions runner will live
+# Runner location
 WORKDIR /actions-runner
 
-# Download and install the GitHub Actions runner
+# Download GitHub Actions runner as root
 RUN set -eux; \
     ARCH="$(uname -m)"; \
     case "$ARCH" in \
@@ -33,22 +35,25 @@ RUN set -eux; \
     rm actions-runner.tar.gz; \
     ./bin/installdependencies.sh
 
-# Directory where the generated Hugo site will be placed and bind-mounted
+# Volume for Hugo output
 ENV HUGO_DEST=/site
-RUN mkdir -p "${HUGO_DEST}"
+RUN mkdir -p "${HUGO_DEST}" && chown runner:runner "${HUGO_DEST}"
 
-# Expose /site as a volume (you'll bind-mount this from the host)
 VOLUME ["/site"]
 
-# Default runner settings
+# Give runner ownership of its files
+RUN chown -R runner:runner /actions-runner
+
+# Switch to non-root user
+USER runner
+
+# Default runner config
 ENV RUNNER_WORKDIR=_work
 ENV GH_RUNNER_NAME=""
 ENV GH_RUNNER_LABELS="self-hosted,hugo"
 
-# Entrypoint script will:
-#  - Register the GitHub runner using GH_RUNNER_URL + GH_RUNNER_TOKEN
-#  - Start the runner
-COPY entrypoint.sh /entrypoint.sh
+# Entrypoint
+COPY --chown=runner:runner entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
