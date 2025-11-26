@@ -49,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to Files
         id: deployment
-        run: pwd && echo "hi"
+        run: echo "Copying to /mnt/data/blog/public" && cp -r public /mnt/data/blog/public
