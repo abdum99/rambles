@@ -1,5 +1,5 @@
 ---
-date: 2025-11-25T17:27:46+03:00
+date: 2025-11-25
 draft: "false"
 title: Second Post
 description: "TODO Description"

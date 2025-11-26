@@ -181,6 +181,8 @@
   },
   "active": "52b75b429a98c679",
   "lastOpenFiles": [
+    "content/posts/Second.md.md",
+    "content/posts/third-post/index.md",
     "extra/actions-runner/entrypoint.sh~",
     "extra/actions-runner/entrypoint.sh",
     "extra/actions-runner/Dockerfile",
@@ -188,11 +190,9 @@
     "extra/Dockerfile",
     "extra/templates/Post.md",
     "content/posts/third-post",
-    "content/posts/third-post/index.md",
     "content/posts/Untitled.md",
     "content/posts/first-post/index.md.md",
     "content/posts/first-post/elnazer_logo_no_bg.png",
-    "content/posts/Second.md.md",
     "public/posts/first-post/elnazer_logo_no_bg.png",
     "public/images/elnazer_logo_no_bg 1.png",
     "static/images/elnazer_logo_no_bg.png",
@@ -203,7 +203,6 @@
     "public/posts/second.md/index.html",
     "public/posts/second.md",
     "public/tags/tag1/page/1/index.html",
-    "public/tags/tag1/page/1",
     "archetypes/default.md",
     "public/images/elnazer_logo_no_bg.png"
   ]

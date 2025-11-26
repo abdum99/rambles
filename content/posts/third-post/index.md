@@ -1,13 +1,10 @@
 ---
-date: 2025-11-25T20:06:02+03:00
-draft: "true"
-title: Third Post
-summary: "TODO Summary"
+date: 2025-11-25
+draft: "false"
+title: Second Post
 description: "TODO Description"
-author: "Abdu"
-toc: true
+toc: false
 readTime: true
-autonumber: true
 math: true
 tags: ["tag1"]
 showTags: true
