@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/hugo-runner/index.md.md",
+                "file": "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
                 "mode": "source",
                 "source": true
               },
@@ -181,9 +181,14 @@
   },
   "active": "b4e53e8cb581904d",
   "lastOpenFiles": [
-    "extra/templates/Post.md",
-    "content/posts/hugo-runner/index.md.md",
+    "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
+    "content/about.md",
+    "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/posts/Untitled.md",
+    "content/writings/First Black President And He The One Who Bombed Us",
+    "content/posts/hugo-runner/index.md.md",
+    "content/writings",
+    "extra/templates/Post.md",
     "content/posts/Second.md.md",
     "content/posts/third-post/index.md",
     "content/posts/hugo-runner",
@@ -199,11 +204,8 @@
     "public/posts/first-post/elnazer_logo_no_bg.png",
     "public/images/elnazer_logo_no_bg 1.png",
     "static/images/elnazer_logo_no_bg.png",
-    "content/about.md",
     "public/posts/first-post/index.md/index.html",
     "public/posts/first-post/index.md",
-    "public/posts/first-post",
-    "public/posts/second.md/index.html",
     "public/posts/second.md",
     "archetypes/default.md",
     "public/images/elnazer_logo_no_bg.png"
