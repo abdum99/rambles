@@ -5,7 +5,7 @@ title: "Auto Publish Self-Hosted Hugo"
 description: "Guide on setting up CI/CD for Hugo sites with Github actions runner"
 toc: false
 readTime: true
-autonumber: true
+autonumber: false
 math: true
 tags: ["guides", "hugo", "obsidian", "cicd"]
 showTags: false
@@ -18,4 +18,5 @@ I self host a blog site, this one, using Hugo, a simple and powerful static site
 2. I want my blog to be version-tracked to give me all the benefits I'm used to as a techie. I can also easily integrate this in obsidian with the [Git Plugin](https://github.com/Vinzent03/obsidian-git)
 3. I want my blog to be updated automatically everytime I push to git
 
-# Auto Publish Self-Hosted Hugo
+## Solution 
+

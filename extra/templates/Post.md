@@ -5,6 +5,7 @@ summary: ""
 description: ""
 draft: false
 toc: false
+autonumber: false
 readTime: true
 math: true
 tags: []
