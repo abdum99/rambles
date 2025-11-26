@@ -49,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to Files
         id: deployment
-        run: echo "Copying to /mnt/data/blog/public" && rsync -r --progress --delete ./public /mnt/data/blog/
+        run: echo "Copying to /site" && rsync -r --progress --delete ./public /site
