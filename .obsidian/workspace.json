@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extra/templates/Post.md",
+                "file": "content/posts/docker-vpn-kill-switch/index.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Post"
+              "title": "index.md"
             }
           }
         ]
@@ -171,16 +171,17 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "hugo-publish:hugo sync": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "627f3c25d57f358e",
   "lastOpenFiles": [
+    "extra/templates/Post.md",
+    "content/posts/docker-vpn-kill-switch/index.md.md",
+    "content/posts/docker-vpn-kill-switch",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
     "content/about.md",
@@ -188,7 +189,6 @@
     "content/writings/First Black President And He The One Who Bombed Us",
     "content/posts/hugo-runner/index.md.md",
     "content/writings",
-    "extra/templates/Post.md",
     "content/posts/Second.md.md",
     "content/posts/third-post/index.md",
     "content/posts/hugo-runner",
@@ -204,7 +204,6 @@
     "public/posts/first-post/elnazer_logo_no_bg.png",
     "public/images/elnazer_logo_no_bg 1.png",
     "static/images/elnazer_logo_no_bg.png",
-    "public/posts/first-post/index.md/index.html",
     "public/posts/first-post/index.md",
     "public/posts/second.md",
     "archetypes/default.md",
