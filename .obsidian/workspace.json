@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/I Tried Every Digital Planner/index.md.md",
+                "file": "content/posts/docker-vpn-kill-switch/index.md.md",
                 "mode": "source",
                 "source": true
               },
@@ -181,6 +181,10 @@
   },
   "active": "627f3c25d57f358e",
   "lastOpenFiles": [
+    "content/writings/I Tried Every Digital Planner/index.md.md",
+    "conflict-files-obsidian-git.md",
+    "content/posts/docker-vpn-kill-switch/index.md.md",
+    "content/posts/docker-vpn-kill-switch",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195320.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195311.png",
@@ -189,7 +193,6 @@
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195227.png",
     "extra/templates/Post.md",
-    "content/writings/I Tried Every Digital Planner/index.md.md",
     "content/writings/I Tried Every Digital Planner",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
@@ -207,10 +210,8 @@
     "extra/actions-runner/Dockerfile",
     "extra/actions-runner",
     "extra/Dockerfile",
-    "content/posts/third-post",
     "content/posts/first-post/index.md.md",
     "content/posts/first-post/elnazer_logo_no_bg.png",
-    "public/posts/first-post/elnazer_logo_no_bg.png",
     "public/posts/first-post/index.md",
     "public/posts/second.md",
     "archetypes/default.md"

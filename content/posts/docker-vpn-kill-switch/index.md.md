@@ -1,8 +1,8 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
-title: <% tp.file.title %>
+date: 2025-11-26
+title: Container VPN Kill Switch
 summary: ""
-description: ""
+description: "How to create a VPN sidecar container with a kill switch"
 draft: false
 toc: false
 autonumber: false
@@ -12,3 +12,5 @@ tags: []
 showTags: false
 hideBackToTop: false
 ---
+
+
