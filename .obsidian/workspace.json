@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extra/templates/Post.md",
+                "file": "content/writings/I Tried Every Digital Planner/index.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Post"
+              "title": "index.md"
             }
           }
         ]
@@ -181,6 +181,16 @@
   },
   "active": "627f3c25d57f358e",
   "lastOpenFiles": [
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195320.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195311.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195303.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195256.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195227.png",
+    "extra/templates/Post.md",
+    "content/writings/I Tried Every Digital Planner/index.md.md",
+    "content/writings/I Tried Every Digital Planner",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
     "content/about.md",
@@ -188,7 +198,6 @@
     "content/writings/First Black President And He The One Who Bombed Us",
     "content/posts/hugo-runner/index.md.md",
     "content/writings",
-    "extra/templates/Post.md",
     "content/posts/Second.md.md",
     "content/posts/third-post/index.md",
     "content/posts/hugo-runner",
@@ -202,12 +211,8 @@
     "content/posts/first-post/index.md.md",
     "content/posts/first-post/elnazer_logo_no_bg.png",
     "public/posts/first-post/elnazer_logo_no_bg.png",
-    "public/images/elnazer_logo_no_bg 1.png",
-    "static/images/elnazer_logo_no_bg.png",
-    "public/posts/first-post/index.md/index.html",
     "public/posts/first-post/index.md",
     "public/posts/second.md",
-    "archetypes/default.md",
-    "public/images/elnazer_logo_no_bg.png"
+    "archetypes/default.md"
   ]
 }
