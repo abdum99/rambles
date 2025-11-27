@@ -1,3 +1,17 @@
+---
+date: 2023-12-02
+title: I Tried Every Digital Planner Out There
+summary: ""
+description: ""
+draft: false
+toc: false
+autonumber: false
+readTime: true
+math: true
+tags: []
+showTags: false
+hideBackToTop: false
+---
 Here's the problem:
 
 **I need to structure my time**
