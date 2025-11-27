@@ -37,12 +37,12 @@ Actually...
 Let me show you
 
 Let's say you're trying to write a paragraph for your essay on WW3. The line is a sustained mental effort (it's your "line of thinking") [<sup>2</sup>](#ft2) And that sexy figure on the left is you -- nice arms.
-![](Pasted%20image%2020251126195227.png)
+![img1](Pasted%20image%2020251126195227.png)
 
 You're working on your first paragraph, breaking it down to multiple sentences and example. You're imagining the conversation that probably went down in the war room meeting and you wonder if generals in the White House would schedule an event on their calendar -- "War Room Meeting w/ POTUS."
 
 Haha that's funn- KAPOW did you schedule that meeting you were supposed to
-![](Pasted%20image%2020251126195245.png)
+![img2](Pasted%20image%2020251126195245.png)
 
 Ok that meeting is kind of important and you want to give people time to plan around it and also make a presentation soon. Let me just quickly send the invite and book a meeting room.
 ![](Pasted%20image%2020251126195256.png)
