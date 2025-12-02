@@ -12,7 +12,6 @@ tags: []
 showTags: false
 hideBackToTop: false
 ---
-![](Pasted%20image%2020251126040051.png)
 Seeing Islamophobic videos like the one of stuart seldowitz harassing an Egyptian food truck worker surfacing at this particular time bothers me, because in reality all it does is shift the world's eyes to one individual and one instance that can easily be "dealt with" by firing them, imprisoning them, or taking any number of punitive actions against the individual. All it does is give the current politicians what they need to shift the blame to individuals or administrations rather than addressing the underlying systemic issue. It really just empowers them to uphold the fucked up system under the pretense that the prejudice or Ism stemmed only from that one individual's hatred and actions. A straw man, of sorts, that presents an opportunity to acquit themselves of the same charges.
 
 It's exactly what is happening right now with Netanyahu's government. The western world will support and **_invest_** in fascist regimes so long as it's profitable to do so. Until the time comes - and you'll know when it comes - and then politicians, that you would have never expected to say a word of truth, will hold governments and individuals accountable. I mean do we really believe Macron is critical of Netanyahu's government?
@@ -24,3 +23,6 @@ And this isn't news to anyone. The younger world is growing more aware to the pa
 So as we ostracize stuart seldowitz over the next few weeks, don't lose sight of the main culprit. Don't fall for the "we just want peace" false narrative that has only serve to undermine struggles for freedom throughout history. CEASE FIRE is not enough. It's always END THE TYRANNY, STOP THE OPPRESSION -- From The River, To The Sea.
 
 [https://www.instagram.com/reel/Cz7vNBDyrXf/?igshid=MzRlODBiNWFlZA==](https://www.instagram.com/reel/Cz7vNBDyrXf/?igshid=MzRlODBiNWFlZA==)
+
+
+![i-think-youre-islamophobic](Pasted%20image%2020251126040051.png)
