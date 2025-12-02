@@ -9,6 +9,6 @@ autonumber: false
 readTime: true
 math: true
 tags: []
-showTags: false
+showTags: true
 hideBackToTop: false
 ---

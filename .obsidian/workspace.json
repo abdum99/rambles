@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/I Tried Every Digital Planner/index.md.md",
+                "file": "extra/templates/Post.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "Post"
             }
           }
         ],
@@ -192,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3c76b0a88264132",
+  "active": "e47eb00f6a64aea4",
   "lastOpenFiles": [
+    "content/writings/I Tried Every Digital Planner/index.md.md",
     "content/writings/Dear Loved Ones.md",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
@@ -203,7 +204,6 @@
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195320.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
     "conflict-files-obsidian-git.md",
-    "content/writings/I Tried Every Digital Planner/index.md.md",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195311.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195303.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195256.png",

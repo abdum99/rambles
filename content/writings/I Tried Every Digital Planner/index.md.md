@@ -9,7 +9,7 @@ autonumber: false
 readTime: true
 math: true
 tags: [adhd]
-showTags: false
+showTags: true
 hideBackToTop: false
 ---
 Here's the problem:
