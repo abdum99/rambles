@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35173062114e2374",
+        "id": "a3abb81f9fcfd02c",
         "type": "tabs",
         "children": [
           {
-            "id": "627f3c25d57f358e",
+            "id": "4a188ef704b1281d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/docker-vpn-kill-switch/index.md.md",
+                "file": "content/posts/ad-hoc-networks/index.md.md",
                 "mode": "source",
                 "source": true
               },
@@ -177,10 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "627f3c25d57f358e",
+  "active": "4a188ef704b1281d",
   "lastOpenFiles": [
-    "extra/templates/Post.md",
+    "content/posts/ad-hoc-networks/index.md.md",
+    "content/posts/ad-hoc-networks",
     "content/posts/docker-vpn-kill-switch/index.md.md",
+    "extra/templates/Post.md",
     "content/posts/docker-vpn-kill-switch",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
@@ -198,7 +200,6 @@
     "extra/actions-runner/Dockerfile",
     "extra/actions-runner",
     "extra/Dockerfile",
-    "content/posts/third-post",
     "content/posts/first-post/index.md.md",
     "content/posts/first-post/elnazer_logo_no_bg.png",
     "public/posts/first-post/elnazer_logo_no_bg.png",
