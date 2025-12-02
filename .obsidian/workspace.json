@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/ad-hoc-networks/index.md.md",
+                "file": "content/posts/ad-hoc-networks/Ad-hoc Networks.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "Ad-hoc Networks"
             }
           },
           {
             "id": "e47eb00f6a64aea4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/posts/I Tried Every Digital Planner/Pasted image 20251126195245.png"
+                "file": "content/posts/ad-hoc-networks/Ad-hoc Networks.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251126195245"
+              "icon": "lucide-file",
+              "title": "Ad-hoc Networks"
             }
           }
         ],
@@ -192,12 +194,12 @@
   },
   "active": "e47eb00f6a64aea4",
   "lastOpenFiles": [
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195227.png",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195245.png",
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195227.png",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195320.png",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195337.png",
     "conflict-files-obsidian-git.md",
-    "content/posts/ad-hoc-networks/index.md.md",
+    "content/posts/ad-hoc-networks/Ad-hoc Networks.md",
     "content/posts/I Tried Every Digital Planner/index.md.md",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195311.png",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195303.png",
