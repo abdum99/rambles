@@ -1,5 +1,5 @@
 ---
-date: 2025-12-02
+date: 2024-06-07
 title: Dear Loved Ones
 summary: ""
 description: ""
@@ -8,8 +8,8 @@ toc: false
 autonumber: false
 readTime: true
 math: true
-tags: []
-showTags: false
+tags: [Palestine,Love,Hope]
+showTags: true
 hideBackToTop: false
 ---
 Day 244 of despising the roof I sleep under,  
