@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index.md"
             }
+          },
+          {
+            "id": "e47eb00f6a64aea4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/posts/I Tried Every Digital Planner/Pasted image 20251126195245.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251126195245"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a188ef704b1281d",
+  "active": "e47eb00f6a64aea4",
   "lastOpenFiles": [
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195227.png",
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195245.png",
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195320.png",
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195337.png",
+    "conflict-files-obsidian-git.md",
     "content/posts/ad-hoc-networks/index.md.md",
+    "content/posts/I Tried Every Digital Planner/index.md.md",
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195311.png",
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195303.png",
+    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195256.png",
+    "content/posts/I Tried Every Digital Planner",
     "content/posts/ad-hoc-networks",
     "content/posts/docker-vpn-kill-switch/index.md.md",
     "extra/templates/Post.md",
@@ -199,15 +222,10 @@
     "extra/actions-runner/entrypoint.sh",
     "extra/actions-runner/Dockerfile",
     "extra/actions-runner",
-    "extra/Dockerfile",
     "content/posts/first-post/index.md.md",
     "content/posts/first-post/elnazer_logo_no_bg.png",
-    "public/posts/first-post/elnazer_logo_no_bg.png",
-    "public/images/elnazer_logo_no_bg 1.png",
-    "static/images/elnazer_logo_no_bg.png",
     "public/posts/first-post/index.md",
     "public/posts/second.md",
-    "archetypes/default.md",
-    "public/images/elnazer_logo_no_bg.png"
+    "archetypes/default.md"
   ]
 }
