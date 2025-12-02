@@ -8,7 +8,7 @@ toc: false
 autonumber: false
 readTime: true
 math: true
-tags: []
+tags: [adhd]
 showTags: false
 hideBackToTop: false
 ---

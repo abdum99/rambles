@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/Dear Loved Ones.md",
+                "file": "content/writings/I Tried Every Digital Planner/index.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dear Loved Ones"
+              "title": "index.md"
             }
           }
         ],
@@ -192,22 +192,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e47eb00f6a64aea4",
+  "active": "d3c76b0a88264132",
   "lastOpenFiles": [
-    "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/writings/Dear Loved Ones.md",
+    "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
     "content/posts/ad-hoc-networks/Ad-hoc Networks.md",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195245.png",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195227.png",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195320.png",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195337.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195227.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195320.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
     "conflict-files-obsidian-git.md",
-    "content/posts/I Tried Every Digital Planner/index.md.md",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195311.png",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195303.png",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195256.png",
-    "content/posts/I Tried Every Digital Planner",
+    "content/writings/I Tried Every Digital Planner/index.md.md",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195311.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195303.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195256.png",
+    "content/writings/I Tried Every Digital Planner",
     "content/posts/ad-hoc-networks",
     "content/posts/docker-vpn-kill-switch/index.md.md",
     "extra/templates/Post.md",
