@@ -37,7 +37,7 @@ Actually...
 Let me show you
 
 Let's say you're trying to write a paragraph for your essay on WW3. The line is a sustained mental effort (it's your "line of thinking") [<sup>2</sup>](#ft2) And that sexy figure on the left is you -- nice arms.
-![img1](/images/image1.png)
+![img1](/static/images/image1.png)
 
 You're working on your first paragraph, breaking it down to multiple sentences and example. You're imagining the conversation that probably went down in the war room meeting and you wonder if generals in the White House would schedule an event on their calendar -- "War Room Meeting w/ POTUS."
 
