@@ -15,7 +15,7 @@ hideBackToTop: false
 # Introduction
 Traditional infrastructure networks, for example, the *internet*, requires a lot of complex setup and maintenance. It's setup once and while it's adaptabile, for the most part it *does not change* (unless you're [Pakistan and you want to take down Youtube for half the world](https://www.cnet.com/culture/how-pakistan-knocked-youtube-offline-and-how-to-make-sure-it-never-happens-again/)).
 
-Because of that, routes are calculated and pre-determined: If you live in Africa and you want to reach a server in America, your ISP likely has a preferred route that your packets will take to get there. Your ISP chooses this route based on some factors (e.g. cost, other ISPs [^1] that it peers or has agreements with, etc).
+Because of that, routes are calculated and pre-determined: If you live in Africa and you want to reach a server in America, your ISP likely has a preferred route that your packets will take to get there. Your ISP chooses this route based on some factors (e.g. cost, shortest routes, agreements it has with other ISPs [^1]).
 # What Are They?
 
 ## Why They're Interesting?
