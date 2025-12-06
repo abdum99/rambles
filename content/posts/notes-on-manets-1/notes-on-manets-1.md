@@ -2,14 +2,14 @@
 date: 2025-12-02
 title: Notes on Mobile Ad-hoc Networks (MANets)
 summary: ""
-description: "Part 1 of a muli-part series on Mobile Ad-hoc Networks and Self-Routing Network Capsules"
+description: "Part 1 of a muli-part series on Mobile Ad-hoc Networks and Self-Routing Network Capsules as I explore them for disaster communication"
 draft: false
 toc: false
 autonumber: false
 readTime: true
 math: true
 tags: ["internet", "LoRa", "Ad-hoc", "networks"]
-showTags: false
+showTags: true
 hideBackToTop: false
 ---
 # Introduction
