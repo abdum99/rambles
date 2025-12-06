@@ -2,13 +2,13 @@
 date: 2025-12-02
 title: Notes on Mobile Ad-hoc Networks (MANets)
 summary: ""
-description: ""
+description: "Part 1 of a muli-part series on Mobile Ad-hoc Networks and Self-Routing Network Capsules"
 draft: false
 toc: false
 autonumber: false
 readTime: true
 math: true
-tags: []
+tags: ["internet", "LoRa", "Ad-hoc", "networks"]
 showTags: false
 hideBackToTop: false
 ---
@@ -20,6 +20,5 @@ Because of that, routes are calculated and pre-determined: If you live in Africa
 
 ## Why They're Interesting?
 
-[^1]
 
 [^1]: The internet is a collection of Autonomous Systems (AS) not ISPs. An autonomous system can be something like a university, a lab, an Internet Service Provider, government, etc. Really, any large enough network (or [small one](https://en.wikipedia.org/wiki/RIPE_NCC)) can be an AS. All you need is a subnet of public IP (a bunch of IP addresses that are yours) and an ASN (Autonomous System Number). These are handled by the Internet Assigned Numbers Authority (IANA)
