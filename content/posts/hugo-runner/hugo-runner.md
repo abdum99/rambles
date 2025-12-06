@@ -2,7 +2,8 @@
 date: 2025-11-26T03:26:35+03:00
 draft: "false"
 title: "Auto Publish Self-Hosted Blog (Static Site Generators)"
-description: "Guide on setting up CI/CD for Hugo sites with Github actions runner"
+description: ""
+summary: "Guide on setting up CI/CD for Hugo sites with Github actions runner"
 toc: false
 readTime: true
 autonumber: false
