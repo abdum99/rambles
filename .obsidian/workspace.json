@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/I Tried Every Digital Planner/index.md.md",
+                "file": "content/posts/notes-on-manets/Ad-hoc Networks.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "Ad-hoc Networks"
             }
           }
         ]
@@ -177,13 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a3af2831a7ffcc8",
+  "active": "d3c76b0a88264132",
   "lastOpenFiles": [
+    "content/posts/hugo-runner/index.md.md",
+    "content/writings/I Tried Every Digital Planner/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "static/images/image1.png",
-    "content/writings/I Tried Every Digital Planner/index.md.md",
     "extra/templates/Post.md",
-    "content/posts/ad-hoc-networks/Ad-hoc Networks.md",
+    "content/posts/notes-on-manets/Ad-hoc Networks.md",
     "content/writings/Dear Loved Ones.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
@@ -194,13 +195,12 @@
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195303.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195256.png",
     "content/writings/I Tried Every Digital Planner",
-    "content/posts/ad-hoc-networks",
+    "content/posts/notes-on-manets",
     "content/posts/docker-vpn-kill-switch/index.md.md",
     "content/posts/docker-vpn-kill-switch",
     "content/about.md",
     "content/posts/Untitled.md",
     "content/writings/First Black President And He The One Who Bombed Us",
-    "content/posts/hugo-runner/index.md.md",
     "content/writings",
     "content/posts/Second.md.md",
     "content/posts/third-post/index.md",
