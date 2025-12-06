@@ -17,7 +17,7 @@ Traditional infrastructure networks, for example, the *internet*, requires a lot
 
 Because of that, routes are calculated and pre-determined: If you live in Africa and you want to reach a server in America, your ISP likely has a preferred route that your packets will take to get there. Your ISP chooses this route based on some factors (e.g. cost, shortest routes, agreements it has with other ISPs [^1]).
 
-# Mobile IP
+## Mobile IP
 
 ## Why They're Interesting?
 

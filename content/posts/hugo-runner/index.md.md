@@ -8,7 +8,7 @@ readTime: true
 autonumber: false
 math: true
 tags: ["guides", "hugo", "obsidian", "cicd"]
-showTags: false
+showTags: true
 hideBackToTop: false
 ---
 
