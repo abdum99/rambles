@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/docker-vpn-kill-switch/index.md.md",
+                "file": "content/posts/hugo-runner/hugo-runner.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "hugo-runner"
             }
           }
         ]
@@ -179,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "627f3c25d57f358e",
+  "active": "d3c76b0a88264132",
   "lastOpenFiles": [
-    "content/posts/hugo-runner/index.md.md",
+    "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
     "content/posts/notes-on-manets-1/notes-on-manets-1.md",
+    "content/posts/hugo-runner/hugo-runner.md",
     "content/posts/I Tried Every Digital Planner/index.md.md",
     "static/images/image1.png",
     "content/writings/I Tried Every Digital Planner/index.md.md",
@@ -196,7 +197,6 @@
     "content/writings/Dear Loved Ones.md",
     "content/posts/notes-on-manets-1",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195227.png",
-    "content/posts/docker-vpn-kill-switch/index.md.md",
     "content/posts/Untitled.md",
     "conflict-files-obsidian-git.md",
     "content/posts/docker-vpn-kill-switch",
