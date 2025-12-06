@@ -1,8 +1,8 @@
 ---
 date: 2025-11-26
 title: Container VPN Kill Switch
-summary: ""
-description: "How to create a VPN sidecar container with a kill switch"
+summary: "How to create a VPN sidecar container with a kill switch"
+description: ""
 draft: false
 toc: false
 autonumber: false
