@@ -39,7 +39,7 @@ listDateFormat = 'Jan 2 2006'
 # Breadcrumbs
 [params.breadcrumbs]
 enabled = true
-showCurrentPage = true
+showCurrentPage = false
 home = "~"
 
 # Social icons
