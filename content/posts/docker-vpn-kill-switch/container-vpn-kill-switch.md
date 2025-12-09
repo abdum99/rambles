@@ -12,8 +12,6 @@ tags: []
 showTags: false
 hideBackToTop: false
 ---
-
-blah blah blah
 ## h234
 hat is soinasdf
 
