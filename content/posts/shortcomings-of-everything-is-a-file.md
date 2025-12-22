@@ -52,7 +52,7 @@ That's the beauty of Linux's "everything is a file" philosophy.
 It's the user <--> kernel analogy to [memory-mapped I/O](https://en.wikipedia.org/wiki/Memory-mapped_I/O_and_port-mapped_I/O). But instead of memory addresses, it's files. And instead of drivers, it's you.
 
 <!-- Benefit -->
-The filesystem convention gives us a few things
+The virtual filesystem gives us a few things:
 - a path to identify a variable
 - permission checks
 - namespace awareness (top level directory)
