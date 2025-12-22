@@ -7,7 +7,7 @@ toc: false
 autonumber: false
 readTime: true
 math: true
-tags: ["linux", "filesystem", "procfs", "sysctl", "ioctl", "networking", "drivers", "networking"]
+tags: ["linux", "filesystem", "procfs", "sysctl", "ioctl", "networks", "drivers", "networking"]
 showTags: true
 hideBackToTop: false
 ---
