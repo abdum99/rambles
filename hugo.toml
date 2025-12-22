@@ -80,8 +80,7 @@ url = "/about"
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
-style = 'github-dark'
-# style = 'algol'
+style = 'xcode-dark'
 
 # Giscus comments
 [params.giscus]
