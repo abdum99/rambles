@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
+                "file": "content/posts/shortcomings-of-everything-is-a-file.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "container-vpn-kill-switch"
+              "title": "shortcomings-of-everything-is-a-file"
             }
           }
         ]
@@ -181,9 +181,12 @@
   },
   "active": "627f3c25d57f358e",
   "lastOpenFiles": [
-    "content/posts/hugo-runner/hugo-runner.md",
     "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
+    "content/posts/shortcomings-of-everything-is-a-file.md",
+    "docker-vpn-kill-switch.md",
+    "extra/templates/Post.md",
     "content/posts/notes-on-manets-1/notes-on-manets-1.md",
+    "content/posts/hugo-runner/hugo-runner.md",
     "content/posts/I Tried Every Digital Planner/index.md.md",
     "static/images/image1.png",
     "content/writings/I Tried Every Digital Planner/index.md.md",
@@ -197,12 +200,10 @@
     "content/writings/Dear Loved Ones.md",
     "content/posts/notes-on-manets-1",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195227.png",
-    "content/posts/Untitled.md",
     "conflict-files-obsidian-git.md",
     "content/posts/docker-vpn-kill-switch",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195337.png",
     "content/posts/I Tried Every Digital Planner/Pasted image 20251126195320.png",
-    "extra/templates/Post.md",
     "content/posts/I Tried Every Digital Planner",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/about.md",
