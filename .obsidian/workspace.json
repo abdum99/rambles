@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/shortcomings-of-everything-is-a-file.md",
+                "file": "content/posts/-of-everything-is-a-file.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "shortcomings-of-everything-is-a-file"
+              "title": "-of-everything-is-a-file"
             }
           }
         ]
@@ -180,7 +180,7 @@
   "active": "627f3c25d57f358e",
   "lastOpenFiles": [
     "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
-    "content/posts/shortcomings-of-everything-is-a-file.md",
+    "content/posts/-of-everything-is-a-file.md",
     "docker-vpn-kill-switch.md",
     "extra/templates/Post.md",
     "content/posts/notes-on-manets-1/notes-on-manets-1.md",

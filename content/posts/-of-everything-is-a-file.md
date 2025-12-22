@@ -1,7 +1,7 @@
 ---
 date: 2025-12-22
-title: "The Shortcomings of \"everything is a file\" in a linux (`ioctl`)"
-summary: "How to configure kernel variables and device drivers and why Linux maintains a few ways"
+title: "Everything Is A File .. But Some Things Aren't"
+summary: "How Linux uses a virtual filesystem to configure kernel variables and device drivers"
 draft: false
 toc: false
 autonumber: false
