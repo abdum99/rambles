@@ -30,7 +30,7 @@ The kernel has two choices[^1] to give you, from a userspace process, the abilit
 
 #### 1. System calls
 The kernel can simply define new system call to give you control over ip forwarding. Something like:
-```
+```c
 int get_ip_forwarding(void);
 int set_ip_forwarding(int enable);
 ```
@@ -38,12 +38,12 @@ This is simple, and understandable, but we had to make two system calls for a si
 
 #### 2. "Everything Is a File"
 Instead, the kernel can define a file. Yes, a file. `/proc/sys/net/ipv4/ip_forward`. You can read the file, and you can write to the file (given the right permissions) to check or configure ip forwarding. For example
-```
+```shell
 # Enable IP forwarding
 echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
 ```
 which translates to
-```
+```c
 write(fd, "1\n", 2);
 ```
 And that's it. You use the standard `open()`, `read()`, `write()` system calls.
