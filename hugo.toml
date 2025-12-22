@@ -80,7 +80,8 @@ url = "/about"
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
-style = 'algol'
+style = 'catppuccin-mocha'
+# style = 'algol'
 
 # Giscus comments
 [params.giscus]
