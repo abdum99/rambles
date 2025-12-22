@@ -1,7 +1,7 @@
 ---
 date: 2025-12-22
 title: "Everything Is A File .. But Some Things Aren't"
-summary: "How Linux uses a virtual filesystem to configure kernel variables and device drivers"
+summary: "Why Linux uses a virtual filesystem to configure kernel variables and device drivers"
 draft: false
 toc: false
 autonumber: false
@@ -22,7 +22,7 @@ Take `sysctl` for example. `sysctl` operates through the `/proc/sys` directory. 
 This is a beautiful idea to simplify configuration of kernel variables and device drivers. The alternative would have been for the kernel to have a *separate system call for each functionality*. But since there's an ever-increasing amount of configuration the kernel has to handle, this would grow very quickly. Let's work with an example
 
 <!-- Example -->
-### IP Forwarding
+### Example: IP Forwarding
 Typically if your device gets an ip packet that is destined for somewhere else, it drops it. But sometimes we need to accept packets that are *not* destined for us. For example, if you're a router and your main job is to route traffic while rarely accepting traffic yourself. Or a firewall interface that has a different address on your system than the intended one, but it needs to check packets intended for you anyway to protect you from malicious traffic. Or you want to setup a [VPN container sidecar](./docker-vpn-kill-switch/container-vpn-kill-switch). There's many reasons. We call that **ip forwarding**. 
 By default, for safety reasons or whatever, the kernel disables ip forwarding.
 But let's say you want to enable it.
