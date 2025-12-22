@@ -1,28 +1,27 @@
 ---
 date: 2025-12-22
 title: "The Shortcomings of \"everything is a file\" in a linux (`ioctl`)"
-summary: ""
-description: ""
+summary: "How to configure kernel variables and device drivers and why Linux maintains a few ways"
 draft: false
 toc: false
 autonumber: false
 readTime: true
 math: true
-tags: ["linux", "file", "procfs", "sysctl", "ioctl"]
+tags: ["linux", "filesystem", "procfs", "sysctl", "ioctl", "networking", "drivers", "networking"]
 showTags: true
 hideBackToTop: false
 ---
-%% intro %%
+<!-- intro -->
 Recently I was reading about different ways for the kernel to communicate or export information. Specifically, in the context of networking userspace mechanisms like `procfs` and `sysctl`. These are mechanisms for the kernel to export internal state to userspace processes.
 
 <!-- which ones we're focusing on -->
 Take `sysctl` for example. `sysctl` operates through the `/proc/sys` directory. It's a **virtual filesystem**. *Virtual* meaning it's *not actually a filesystem* that is mapped to storage and organizes data, *it's all pretend*. But it's a filesystem in the sense that *you can interact with it using classic POSIX `open()`, `read()`, `write()`* the way you would an actual filesystem.
 
 ## Why Filesystem Semantics
-%% Benefit %%
+<!-- Benefit -->
 This is a beautiful idea to simplify configuration of kernel variables and device drivers. The alternative would have been for the kernel to have a *separate system call for each functionality*. But since there's an ever-increasing amount of configuration the kernel has to handle, this would grow very quickly. Let's work with an example
 
-%% Example %%
+<!-- Example -->
 ### IP Forwarding
 Typically if your device gets an ip packet that is destined for somewhere else, it drops it. But sometimes we need to accept packets that are *not* destined for us. For example, if you're a router and your main job is to route traffic while rarely accepting traffic yourself. Or a firewall interface that has a different address on your system than the intended one, but it needs to check packets intended for you anyway to protect you from malicious traffic. Or you want to setup a [VPN container sidecar](./docker-vpn-kill-switch/container-vpn-kill-switch). There's many reasons. We call that **ip forwarding**. 
 By default, for safety reasons or whatever, the kernel disables ip forwarding.
@@ -48,16 +47,18 @@ which translates to
 write(fd, "1\n", 2);
 ```
 And that's it. You use the standard `open()`, `read()`, `write()` system calls.
-That's the beauty of Linux's "everything is a file" philosophy
+That's the beauty of Linux's "everything is a file" philosophy. 
 
-%% Benefit %%
+It's the user <--> kernel analogy to [memory-mapped I/O](https://en.wikipedia.org/wiki/Memory-mapped_I/O_and_port-mapped_I/O). But instead of memory addresses, it's files. And instead of drivers, it's you.
+
+<!-- Benefit -->
 The filesystem convention gives us a few things
 - a path to identify a variable
 - permission checks
 - namespace awareness (top level directory)
 - validation hooks
 
-%% Limitation %%
+<!-- Limitation %%-->
 ## When file semantics stop making sense
 
 The “everything is a file” idea works great **as long as the thing you’re controlling looks like a value**.
@@ -114,6 +115,4 @@ So Linux uses:
 - **files** (`/proc`, `/sys`) for simple configuration
 - **`ioctl`** when file semantics start to lie
 
-
----
 [^1]: I lied there's a few other alternatives here (e.g. a unified control system call with an enum parameter, or even message-passing if you really want to make your life more difficult)
