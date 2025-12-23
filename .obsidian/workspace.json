@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "35173062114e2374",
+        "id": "0b46259ebba631df",
         "type": "tabs",
         "children": [
           {
-            "id": "627f3c25d57f358e",
+            "id": "6a3af2831a7ffcc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
-                "mode": "source",
-                "source": true
+                "file": "static/images/image1.png"
               },
-              "icon": "lucide-file",
-              "title": "everything-is-a-file-but-some-things-arent"
+              "icon": "lucide-image",
+              "title": "image1"
             }
           }
         ]
@@ -177,43 +175,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "627f3c25d57f358e",
+  "active": "6a3af2831a7ffcc8",
   "lastOpenFiles": [
-    "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
-    "content/posts/everything-is-a-file-but-some-things-arent.md",
-    "docker-vpn-kill-switch.md",
-    "extra/templates/Post.md",
+    "static/images/elnazer_logo_no_bg.png",
+    "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
+    "content/posts/notes-on-manets/Ad-hoc Networks.md",
     "content/posts/notes-on-manets-1/notes-on-manets-1.md",
+    "content/posts/notes-on-manets-1",
     "content/posts/hugo-runner/hugo-runner.md",
-    "content/posts/I Tried Every Digital Planner/index.md.md",
-    "static/images/image1.png",
+    "content/posts/everything-is-a-file-but-some-things-arent.md",
+    "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
+    "content/posts/hugo-runner/index.md.md",
     "content/writings/I Tried Every Digital Planner/index.md.md",
-    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
+    "static/images/image1.png",
+    "extra/templates/Post.md",
+    "content/writings/Dear Loved Ones.md",
+    "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195320.png",
+    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
+    "conflict-files-obsidian-git.md",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195311.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195303.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195256.png",
-    "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
     "content/writings/I Tried Every Digital Planner",
-    "content/writings/Dear Loved Ones.md",
-    "content/posts/notes-on-manets-1",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195227.png",
-    "conflict-files-obsidian-git.md",
+    "content/posts/notes-on-manets",
+    "content/posts/docker-vpn-kill-switch/index.md.md",
     "content/posts/docker-vpn-kill-switch",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195337.png",
-    "content/posts/I Tried Every Digital Planner/Pasted image 20251126195320.png",
-    "content/posts/I Tried Every Digital Planner",
-    "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/about.md",
+    "content/posts/Untitled.md",
     "content/writings/First Black President And He The One Who Bombed Us",
     "content/writings",
     "content/posts/Second.md.md",
     "content/posts/third-post/index.md",
     "content/posts/hugo-runner",
+    "content/posts/third-post/Pasted image 20251126032213.png",
     "extra/actions-runner/entrypoint.sh~",
     "extra/actions-runner/entrypoint.sh",
     "extra/actions-runner/Dockerfile",
     "content/posts/first-post/index.md.md",
+    "content/posts/first-post/elnazer_logo_no_bg.png",
     "public/posts/first-post/index.md",
     "public/posts/second.md",
     "archetypes/default.md"
