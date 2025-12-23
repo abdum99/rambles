@@ -11,12 +11,14 @@
             "id": "6a3af2831a7ffcc8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/images/image1.png"
+                "file": "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "image1"
+              "icon": "lucide-file",
+              "title": "index.md"
             }
           }
         ]
@@ -177,6 +179,7 @@
   },
   "active": "6a3af2831a7ffcc8",
   "lastOpenFiles": [
+    "static/images/image1.png",
     "static/images/elnazer_logo_no_bg.png",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/posts/notes-on-manets/Ad-hoc Networks.md",
@@ -187,7 +190,6 @@
     "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
     "content/posts/hugo-runner/index.md.md",
     "content/writings/I Tried Every Digital Planner/index.md.md",
-    "static/images/image1.png",
     "extra/templates/Post.md",
     "content/writings/Dear Loved Ones.md",
     "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
