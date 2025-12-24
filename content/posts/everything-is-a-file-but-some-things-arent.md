@@ -14,8 +14,6 @@ hideBackToTop: false
 <!-- intro -->
 Recently I was reading about different ways for the kernel to communicate or export information. Specifically, in the context of networking userspace mechanisms like `procfs` and `sysctl`. These are mechanisms for the kernel to export internal state to userspace processes.
 
-<!--more-->
-
 <!-- which ones we're focusing on -->
 Take `sysctl` for example. `sysctl` operates through the `/proc/sys` directory. It's a **virtual filesystem**. *Virtual* meaning it's *not actually a filesystem* that is mapped to storage and organizes data, *it's all pretend*. But it's a filesystem in the sense that *you can interact with it using classic POSIX `open()`, `read()`, `write()`* the way you would an actual filesystem.
 
