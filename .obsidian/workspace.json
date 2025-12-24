@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/Dear Loved Ones.md",
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dear Loved Ones"
+              "title": "everything-is-a-file-but-some-things-arent"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/writings/Dear Loved Ones.md",
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dear Loved Ones"
+              "title": "Backlinks for everything-is-a-file-but-some-things-arent"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/writings/Dear Loved Ones.md",
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dear Loved Ones"
+              "title": "Outgoing links from everything-is-a-file-but-some-things-arent"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/writings/Dear Loved Ones.md",
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dear Loved Ones"
+              "title": "Outline of everything-is-a-file-but-some-things-arent"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "6a3af2831a7ffcc8",
   "lastOpenFiles": [
+    "content/writings/Dear Loved Ones.md",
     "content/writings/I Tried Every Digital Planner/index.md.md",
     "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/posts/everything-is-a-file-but-some-things-arent.md",
@@ -195,7 +196,6 @@
     "content/posts/docker-vpn-kill-switch/container-vpn-kill-switch.md",
     "content/posts/hugo-runner/index.md.md",
     "extra/templates/Post.md",
-    "content/writings/Dear Loved Ones.md",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195320.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
