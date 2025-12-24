@@ -42,6 +42,7 @@ titleCaseStyle = 'none'
 
 # Taxonomies
 CapitalizeListTitles = false
+preserveTaxonomyNames = true
 
 # Breadcrumbs
 [params.breadcrumbs]
