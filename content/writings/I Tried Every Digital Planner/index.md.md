@@ -1,8 +1,7 @@
 ---
 date: 2023-12-02
 title: I Tried Every Digital Planner Out There
-summary: ""
-description: ""
+summary: " "
 draft: false
 toc: false
 autonumber: false

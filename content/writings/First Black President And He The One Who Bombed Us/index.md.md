@@ -1,7 +1,7 @@
 ---
 date: 2023-11-22
 title: First Black President And He The One Who Bombed Us
-summary: "sumn"
+summary: " "
 description: ""
 draft: false
 toc: false
