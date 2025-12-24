@@ -37,6 +37,10 @@ listSummaries = true
 summaryLength = 0 # do not auto-generate summaries
 listDateFormat = 'Jan 2 2006'
 
+
+# Tags
+titleCaseStyle = 'none'
+
 # Breadcrumbs
 [params.breadcrumbs]
 enabled = true
