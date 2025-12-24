@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "everything-is-a-file-but-some-things-arent"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for everything-is-a-file-but-some-things-arent"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from everything-is-a-file-but-some-things-arent"
             }
           },
           {
@@ -140,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/posts/everything-is-a-file-but-some-things-arent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of everything-is-a-file-but-some-things-arent"
             }
           },
           {
-            "id": "81309fc3db9536ac",
+            "id": "1dd24919e5dcc2d5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a3af2831a7ffcc8",
+  "active": "c468338e2e6fc769",
   "lastOpenFiles": [
+    "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
+    "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
     "static/images/image1.png",
     "static/images/elnazer_logo_no_bg.png",
-    "content/writings/First Black President And He The One Who Bombed Us/index.md.md",
     "content/posts/notes-on-manets/Ad-hoc Networks.md",
     "content/posts/notes-on-manets-1/notes-on-manets-1.md",
     "content/posts/notes-on-manets-1",
@@ -192,7 +196,6 @@
     "content/writings/I Tried Every Digital Planner/index.md.md",
     "extra/templates/Post.md",
     "content/writings/Dear Loved Ones.md",
-    "content/writings/First Black President And He The One Who Bombed Us/Pasted image 20251126040051.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195245.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195320.png",
     "content/writings/I Tried Every Digital Planner/Pasted image 20251126195337.png",
@@ -216,7 +219,6 @@
     "extra/actions-runner/entrypoint.sh",
     "extra/actions-runner/Dockerfile",
     "content/posts/first-post/index.md.md",
-    "content/posts/first-post/elnazer_logo_no_bg.png",
     "public/posts/first-post/index.md",
     "public/posts/second.md",
     "archetypes/default.md"

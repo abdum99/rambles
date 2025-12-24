@@ -34,6 +34,7 @@ homeCollection = 'posts'
 # Lists parameters
 paginationSize = 100
 listSummaries = true
+summaryLength = 0 # do not auto-generate summaries
 listDateFormat = 'Jan 2 2006'
 
 # Breadcrumbs
@@ -72,7 +73,6 @@ url = "/posts"
 [[params.menu]]
 name = "writings"
 url = "/writings"
-listSummaries = false
 
 [[params.menu]]
 name = "about"
